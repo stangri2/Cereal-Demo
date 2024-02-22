@@ -1,0 +1,3 @@
+/Users/siddharthtangri/Desktop/Cereal-Demo/build/CMakeFiles/CEREALDEMO.dir
+/Users/siddharthtangri/Desktop/Cereal-Demo/build/CMakeFiles/edit_cache.dir
+/Users/siddharthtangri/Desktop/Cereal-Demo/build/CMakeFiles/rebuild_cache.dir
